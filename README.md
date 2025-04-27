@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Pavani!
 
-<!--
-**pavanimahipala666/pavanimahipala666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have completed my **Master of Computer Applications (MCA)** and I’m passionate about technology, software development, and continuous learning.
 
-Here are some ideas to get you started:
+## Skills
+- Java
+- SQL
+- HTML, CSS
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **Banking System Application** (Java, OOPs based)
+- **Simple PDF Portfolio Builder**
+
+## Education
+- MCA, [JNTUK], [2024]
+
+## Contact
+- Email: pavanimahipala666@gmail.com
+- LinkedIn: https://www.linkedin.com/in/pavani-mahipala
