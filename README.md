@@ -11,6 +11,7 @@ I have completed my **Master of Computer Applications (MCA)** and I’m passiona
 ## Projects
 - **Banking System Application** (Java, OOPs based)
 - **Simple PDF Portfolio Builder**(Python)
+- **Student Mangement System**(SQL)
 
 ## Education
 - MCA, [JNTUK], [2024]
